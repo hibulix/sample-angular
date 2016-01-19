@@ -1,0 +1,19 @@
+{
+  "name": "sample-angular",
+  "version": "0.0.1",
+  "description": "Schulung angular JS",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hibulix/sample-angular.git"
+  },
+  "author": "Patrick Ndongo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hibulix/sample-angular/issues"
+  },
+  "homepage": "https://github.com/hibulix/sample-angular#readme"
+}
